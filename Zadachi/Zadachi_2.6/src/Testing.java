@@ -6,11 +6,9 @@ public class Testing {
         int num=vvod.nextInt();
         switch (num){
             case 1:{
-                System.out.println("Строка");
-               String word=vvod.nextLine();
-                System.out.println("Количество повторений");
-                int div=vvod.nextInt();
-                System.out.println(t1.repeating(word,div));
+
+
+                System.out.println(t1.repeating());
             break;}
             case 2:{System.out.println("Введите размер массива");
                 int osn=vvod.nextInt();

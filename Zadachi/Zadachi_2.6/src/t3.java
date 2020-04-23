@@ -9,7 +9,7 @@ public class t3 {
             arr[i] = vvod2.nextInt();
             summ=summ+arr[i];
         }
-        if (summ%osn>0){
+        if (summ%osn==0){
             return true;
         }
         else {return false;}
