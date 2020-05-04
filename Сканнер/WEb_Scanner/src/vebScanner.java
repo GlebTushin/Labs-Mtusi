@@ -42,4 +42,7 @@ String line;
     public void addNotScanned(URLDephPair site){
         NotScanned.add(site);
     }
+    public void remove(){
+        this.NotScanned.removeFirst();
+    }
 }

@@ -21,7 +21,7 @@ public class URLreader {
     }
     protected void Reading(URLDephPair site,vebScanner veb)
     {try{
-        if (check(site.getURL(),site.getDepth()))
+        if (check(site.getURL(),site.getDepth())==true)
         { Socket sitechek=new Socket((site.getURL()),80);
         sitechek.setSoTimeout(10);
         ScanSite Scun=new ScanSite();
@@ -39,9 +39,10 @@ public class URLreader {
 
         }
         veb.addScanned(site);
+
         sitechek.close();
         }
-
+        veb.remove();
         }
     catch (SocketException ex){
     }

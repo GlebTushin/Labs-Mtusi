@@ -29,6 +29,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="vebScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vebScanner" />
+      <module name="WEb_Scanner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.vebScanner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -47,10 +61,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588596655132" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588431954453">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1588604588111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588431954453" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588604588111" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1588604588111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588604588111" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1588604588111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588604588111" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1588604588111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588604588111" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588602597045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588602597045" />
     <state x="339" y="164" key="run.anything.popup" timestamp="1588596494726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
