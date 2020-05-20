@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eab4a512-3b33-4383-8b38-1ad0fad9a9dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c5xxlJStwBCqsBN3zufaPzGMei" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gtush\IdeaProjects\ScalaStartProject\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Functions" />
+      <module name="ScalaStartProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Functions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eab4a512-3b33-4383-8b38-1ad0fad9a9dc" name="Default Changelist" comment="" />
+      <created>1589832503268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589832503268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="105" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1589924918037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="105" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589924918037" />
+    <state width="1288" height="154" key="GridCell.Tab.0.bottom" timestamp="1590008990508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1288" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590008990508" />
+    <state width="1288" height="154" key="GridCell.Tab.0.center" timestamp="1590008990493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1288" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590008990493" />
+    <state width="1288" height="154" key="GridCell.Tab.0.left" timestamp="1590008990493">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1288" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590008990493" />
+    <state width="1288" height="154" key="GridCell.Tab.0.right" timestamp="1590008990508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1288" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590008990508" />
+    <state x="340" y="157" key="run.anything.popup" timestamp="1589838977569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="340" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1589838977569" />
+    <state x="345" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590008344469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="345" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590008344469" />
+  </component>
+</project>
